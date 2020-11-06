@@ -1,0 +1,6 @@
+/3rdparty/DBow3/build/
+/voc_create/build/
+/voc_create/.vscode/
+
+*.txt~
+*.cpp~
